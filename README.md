@@ -1,107 +1,103 @@
-
 <h1 align="center">Hi 👋, I'm Singareddy Venkateswara Reddy</h1>
-<h3 align="center">Final Year B.Tech AIML Student | Python Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+Developer;AI+%26+Machine+Learning+Student;Always+Learning+New+Things!" />
+Final Year B.Tech AIML Student • Python Developer • AI Enthusiast
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+Developer;AI+%26+ML+Student;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🙋 About Me
 
-- 🎓 Final Year B.Tech in Artificial Intelligence & Machine Learning
-- 💻 Passionate about Python, AI, and Backend Development
-- 🌱 Currently learning Flask, SQL, Git & GitHub
-- 🚀 Building real-world AI and Web Development projects
-- 🎯 Goal: Become a Software Engineer
+🎓 Final Year B.Tech (Artificial Intelligence & Machine Learning)
 
----
+💻 Passionate about Python & AI
 
-## 🚀 Tech Stack
+🌱 Currently learning Flask, SQL & Git
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,flask,sqlite,mysql,vscode" />
-</p>
+🚀 Building Real-World Projects
 
 ---
 
-## 📂 Featured Projects
+# 🌐 Socials
 
-### 🌾 Smart Kisan AI
-AI-powered farming assistant with crop recommendation, disease detection, chatbot, and fertilizer suggestions.
-
-### 🛒 E-Commerce Website
-Flask-based shopping website with login, admin panel, cart, and database integration.
-
-### 📚 Library Management System
-Python project for managing books, users, and issue/return operations.
-
-### 🤖 Trustworthy AI
-Research project on Out-of-Distribution Detection and Uncertainty Quantification.
-
----
-
-## 📜 Certifications
-
-- Infosys – Introduction to Data Science
-- Infosys – Angular
-- IBM Cognitive Class – SQL
-- NPTEL – Industry 4.0 & IoT
-- Large Language Models
-- Human Computer Interaction
-- Privacy & Security
-
----
-
-## 🌐 Connect With Me
-
-<p>
+<p align="left">
 <a href="https://www.linkedin.com/in/venkateswarareddy-singareddy-b5ba70367">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:venkateswarareddysingareddy82@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 💻 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=venkateswarareddysingareddy82-pixel&show_icons=true&theme=tokyonight)
+<p align="left">
 
----
+<img src="https://skillicons.dev/icons?i=python"/>
 
-## 🔥 GitHub Streak
+<img src="https://skillicons.dev/icons?i=c"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=venkateswarareddysingareddy82-pixel&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=html"/>
 
----
+<img src="https://skillicons.dev/icons?i=css"/>
 
-## 💻 Most Used Languages
+<img src="https://skillicons.dev/icons?i=git"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkateswarareddysingareddy82-pixel&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=github"/>
 
----
+<img src="https://skillicons.dev/icons?i=flask"/>
 
-## 🏆 GitHub Trophies
+<img src="https://skillicons.dev/icons?i=sqlite"/>
 
-![](https://github-profile-trophy.vercel.app/?username=venkateswarareddysingareddy82-pixel&theme=algolia)
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
----
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=venkateswarareddysingareddy82-pixel&theme=tokyo-night)
+</p>
 
 ---
 
-## 👀 Profile Views
+# 📊 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=venkateswarareddysingareddy82-pixel&color=blue)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=venkateswarareddysingareddy82-pixel&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateswarareddysingareddy82-pixel&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=venkateswarareddysingareddy82-pixel&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=venkateswarareddysingareddy82-pixel&theme=algolia&no-frame=true&row=1"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>
