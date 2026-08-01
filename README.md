@@ -1,5 +1,6 @@
 <p align = "center">
-  <img src="whatapp image 2026-08-01.png" width="100%>
+  <img src="WhatsApp Image 2026-08-01 at 8.08.18 PM.jpeg
+" width="100%>
     </p>
 <h1 align="center">Hi 👋, I'm Singareddy Venkateswara Reddy</h1>
 
