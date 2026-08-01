@@ -82,12 +82,8 @@ Final Year B.Tech AIML Student • Python Developer • AI Enthusiast
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=venkateswarareddysingareddy82-pixel&theme=github-dark-blue&hide_border=true"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=venkateswarareddysingareddy82-pixel&show_icons=true&theme=tokyonight" />
 </p>
-
----
 
 # 🏆 GitHub Trophies
 
