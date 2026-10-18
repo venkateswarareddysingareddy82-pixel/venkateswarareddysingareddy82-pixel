@@ -24,6 +24,20 @@
 
 ---
 
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://my-portfolio-20oagru0i.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" alt="My Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  Explore my portfolio to learn more about my skills, projects, and professional journey.
+</p>
+
+---
+
 ## 🚀 My Projects
 
 ### 🌾 1. Intelligent Farming
